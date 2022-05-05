@@ -18,3 +18,4 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor262&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razor262&count_private=true&hide=contribs,issues&show_icons=true) [![codewars](https://www.codewars.com/users/razor262/badges/large)](https://www.codewars.com/users/razor262)   
