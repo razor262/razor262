@@ -9,7 +9,9 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning JavaScript and English language
 - 👯 I’m looking to collaborate on teams software engineer
 - 🤔 I’m looking for help with Stack Overflow
+<!--
 - 💬 Ask me about 24.work@bk.ru
+-->
 - 📫 How to reach me: 24.work@bk.ru
 <!--
 - 😄 Pronouns: ...
