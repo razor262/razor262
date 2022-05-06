@@ -1,6 +1,6 @@
-<!--
-![Screenshot](https://res.cloudinary.com/kln/image/upload/v1615669773/repository-preview-leaguestats.jpg)
--->
+
+![Screenshot](https://www.logomoose.com/wp-content/uploads/2013/04/seven.jpg)
+
 ### Hi every 👋
 
 <!--
