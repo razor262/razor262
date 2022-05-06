@@ -1,6 +1,6 @@
-
+<!--
 ![Screenshot](https://webneel.com/sites/default/files/images/manual/logo-all/11-seven-creative-and-brilliant-logo-design.gif)
-
+-->
 ### Hi every 👋
 
 <!--
