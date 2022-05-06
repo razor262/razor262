@@ -1,7 +1,7 @@
 
 ![Screenshot](https://webneel.com/sites/default/files/images/manual/logo-all/11-seven-creative-and-brilliant-logo-design.gif)
 
-                     ### Hi every 👋
+### Hi every 👋
 
 <!--
 **razor262/razor262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
