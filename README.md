@@ -1,6 +1,6 @@
-
+<!--
 ![Screenshot](https://www.logomoose.com/wp-content/uploads/2013/04/seven.jpg)
-
+-->
 ### Hi every 👋
 
 <!--
