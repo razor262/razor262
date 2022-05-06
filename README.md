@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about 24.work@bk.ru
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=_Seven_&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=_Seven_&count_private=true&hide=contribs,issues&show_icons=true) [![codewars](https://www.codewars.com/users/_Seven_/badges/large)](https://www.codewars.com/users/_Seven_) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor262&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razor262&count_private=true&hide=contribs,issues&show_icons=true) [![codewars](https://www.codewars.com/users/_Seven_/badges/large)](https://www.codewars.com/users/_Seven_) 
 
 - 📫 How to reach me: 24.work@bk.ru
 <!--
