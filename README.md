@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor262&layout=compact) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razor262&count_private=true&hide=contribs,issues&show_icons=true)->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razor262&count_private=true&hide=contribs,issues&show_icons=true)-->
 
  [![codewars](https://www.codewars.com/users/_Seven_/badges/large)](https://www.codewars.com/users/_Seven_) 
 
