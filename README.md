@@ -23,10 +23,10 @@ Here are some ideas to get you started:-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=razor262&count_private=true&hide=contribs,issues&show_icons=true)-->
 
  [![codewars](https://www.codewars.com/users/_Seven_/badges/large)](https://www.codewars.com/users/_Seven_) 
-
- ![gopher dancing](./se7en.gif)
-
-- 📫 How to reach me: 24.work@bk.ru
+<!--
+ ![gopher dancing](./se7en.gif)-->
+<!--
+- 📫 How to reach me: 24.work@bk.ru-->
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
