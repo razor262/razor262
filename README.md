@@ -1,3 +1,4 @@
+![Screenshot](https://webneel.com/sites/default/files/images/manual/logo-all/11-seven-creative-and-brilliant-logo-design.gif)
 
 <h2 align="center">My skills:</h2>
 
@@ -7,9 +8,9 @@
 <!--
 ![Screenshot](https://webneel.com/sites/default/files/images/manual/logo-all/11-seven-creative-and-brilliant-logo-design.gif)
 -->
-
+<!--
 ### Hi every 👋
-
+-->
 <!--
 **razor262/razor262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
